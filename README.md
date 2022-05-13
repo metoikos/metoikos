@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am passionate about learning things and solving problems (also breaking stuff). I try to automate boring tasks with code. 
+I have endless curiosity about life and the world around us.
+
 <!--
 **metoikos/metoikos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
